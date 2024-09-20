@@ -1,0 +1,71 @@
+Synopsis for Major Project Proposal: DonorDash ApplicaƟon
+Project Title:
+DonorDash: Simplifying the Process of Finding Blood Donors Through an Integrated Mobile
+ApplicaƟon
+1. IntroducƟon
+The need for blood donaƟons is a criƟcal aspect of healthcare, with millions of lives depending on
+Ɵmely blood transfusions. However, finding a compaƟble donor in Ɵmes of emergency can oŌen be
+Ɵme-consuming and challenging. This project aims to create a mobile applicaƟon that simplifies the
+process of connecƟng individuals in urgent need of blood with potenƟal donors. The app will allow
+users to raise requests based on their blood group and locaƟon, and noƟfy matching donors,
+ensuring swiŌ communicaƟon and coordinaƟon. The project is intended to enhance the blood
+donaƟon process, increase engagement with potenƟal donors, and provide educaƟonal content to
+raise awareness about the importance of donaƟng blood.
+2. ObjecƟve
+The primary objecƟve of the DonorDash applicaƟon is to streamline the process of finding blood
+donors by:
+ Providing an easy-to-use plaƞorm where individuals seeking blood can raise requests based
+on specific requirements such as locaƟon and blood group.
+ Allowing potenƟal donors to receive real-Ɵme noƟficaƟons and RSVP to requests that match
+their profile.
+ FacilitaƟng a smooth communicaƟon process between the seeker and donor using an in-app
+chat feature, along with locaƟon-sharing funcƟonality for beƩer coordinaƟon.
+ Engaging users through addiƟonal features, such as a counter to showcase the number of
+lives saved and educaƟonal content or stories related to blood donaƟons.
+3. Features of the ApplicaƟon
+The DonorDash app will have the following key features:
+a. Raise Request for Blood:
+The central funcƟonality will enable users in need of blood to raise a request by specifying their
+blood group and current locaƟon. This request will be sent as a noƟficaƟon to users who match the
+criteria, allowing them to respond quickly.
+b. RSVP NoƟficaƟon for Donors:
+Users who match the seeker’s blood group and locaƟon will receive a noƟficaƟon. They can choose
+to RSVP, confirming their availability to donate. The RSVP feature ensures that the seeker is only
+connected to donors willing to assist at that moment.
+c. In-App Chat and LocaƟon Sharing:
+Once a donor RSVPs to a request, both the seeker and donor will be able to communicate through an
+integrated chat feature called "Inox." The chat interface will also include the ability to share
+locaƟons, allowing both parƟes to coordinate the blood donaƟon efficiently.
+d. Lives Saved Counter:
+For engagement and moƟvaƟon, the app will feature a visible counter on the home screen, tracking
+and displaying the total number of lives saved through successful donaƟons facilitated by the
+plaƞorm. This counter will serve as a reminder of the app’s impact and encourage further
+parƟcipaƟon.
+e. EducaƟonal Content and Stories:
+The app will host arƟcles, short educaƟonal snippets, and real-life stories of people whose lives have
+been saved through blood donaƟons. This content will raise awareness about the importance of
+blood donaƟon and encourage users to stay engaged with the plaƞorm.
+4. Technology Stack
+The applicaƟon will be developed using the following technologies:
+ Front-end: FluƩer or React NaƟve for a cross-plaƞorm experience on both Android and iOS.
+ Back-end: Firebase or Node.js for user authenƟcaƟon, real-Ɵme noƟficaƟon management,
+and database management.
+ Database: Cloud Firestore or MongoDB for storing user data, requests, and chat history.
+ APIs: Google Maps API or other geolocaƟon services to enable locaƟon sharing between the
+seeker and donor.
+5. Benefits and Impact
+The DonorDash app is designed to save lives by reducing the Ɵme and effort required to find
+compaƟble donors. By facilitaƟng instant noƟficaƟons and direct communicaƟon between seekers
+and donors, the app will significantly increase the efficiency of the blood donaƟon process.
+AddiƟonally, the inclusion of educaƟonal content will encourage users to become regular donors,
+thereby creaƟng a community of individuals commiƩed to helping others in Ɵmes of need.
+Furthermore, the lives saved counter will moƟvate users by showcasing the impact of their
+contribuƟons. This feature, along with real-life success stories, will foster a sense of accomplishment
+and encourage consistent engagement on the plaƞorm.
+6. Conclusion
+The DonorDash applicaƟon addresses a crucial problem in healthcare by providing a seamless and
+efficient plaƞorm for individuals seeking blood donaƟons. With its real-Ɵme noƟficaƟon system, in-
+app communicaƟon, and educaƟonal features, the app aims to not only simplify the process of
+finding donors but also inspire a community-driven approach to saving lives. This project holds the
+potenƟal to make a significant impact on society by ensuring that blood donaƟons are just a few taps
+away.
